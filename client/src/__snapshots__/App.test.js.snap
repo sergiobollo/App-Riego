@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`landing component snapshot with Enzyme 1`] = `
+<div>
+  <Logo
+    alt="Logo"
+    source="./MYtineraryLogo.png"
+  />
+  <FindTrip
+    link="./Cities"
+    name="Browser"
+    source="./circled-right-2.png"
+  />
+  <BuildMytineray
+    linkCreateAccount="./CreateAccount"
+    linkLogin="./Login"
+  />
+  <Home
+    alt="Home"
+    link="/"
+    source="./homeIcon.png"
+  />
+</div>
+`;

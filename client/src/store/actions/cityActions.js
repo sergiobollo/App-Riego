@@ -1,0 +1,9 @@
+export const LISTAR_CIUDADES = 'LISTAR_CIUDADES';
+export const FILTER_CITIES = 'FILTER_CITIES';
+export const HANDLE_CHANGE = 'HANDLE_CHANGE';
+export const POST_PLANTA = 'POST_PLANTA';
+export const POST_TEMPERATURA = 'POST_TEMPERATURA';
+export const POST_HUMEDAD = 'POST_HUMEDAD';
+export const POST_LUZ = 'POST_LUZ';
+export const POST_DUEÑO = "POST_DUEÑO";
+export const POST_IDDUEÑO = "POST_IDDUEÑO"
